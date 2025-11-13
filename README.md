@@ -39,5 +39,4 @@ def calculator():
             print("Result:", multiply(num1, num2))
         elif choice == '4':
             print("Result:", divide(num1, num2))
-if __name__ == "__main__":
 calculator()
